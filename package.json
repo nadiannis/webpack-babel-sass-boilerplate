@@ -2,9 +2,9 @@
   "name": "webpack-babel-sass-boilerplate",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack --mode production",
+    "dev": "webpack-dev-server --mode development"
   },
   "repository": {
     "type": "git",
