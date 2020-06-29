@@ -1,7 +1,7 @@
 {
   "name": "webpack-babel-sass-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "A webpack boilerplate with Babel and Sass/ SCSS",
   "scripts": {
     "build": "webpack --mode production",
     "dev": "webpack-dev-server --mode development"
@@ -10,6 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/nadiannis/webpack-babel-sass-boilerplate.git"
   },
+  "keywords": [
+    "webpack",
+    "boilerplate",
+    "frontend",
+    "es6",
+    "javascript",
+    "babel",
+    "sass"
+  ],
   "author": "Annisa Nadia",
   "license": "MIT",
   "bugs": {
